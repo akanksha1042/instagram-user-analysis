@@ -1,5 +1,5 @@
 # instagram-user-analysis
-Project Description --
+Project Description__
 User analysis is the process by which we track how users engage and interact with our digital product
 (software or mobile application) in an attempt to derive business insights for marketing, product & 
 development teams. These insights are then used by teams across the business to launch a new marketing 
@@ -11,7 +11,7 @@ Instagram from the database provided.2-the users who have never posted a single 
 3- Identify the winner of the contest and provide their details to the team 4-Identify and suggest the top 5 
 most commonly used hashtags on the platform 6-What day of the week do most users register on? Provide 
 insights on when to schedule an ad campaign
-Approach--  &nbsp
+Approach__
 Firstly I identified the project and which methods should I apply to this.
 The project is divided into two parts A) Marketing B) Investor metrics
 For marketing there is a need FOR FINDING the most loyal users I apply limit 5, for inactive users to 
@@ -20,11 +20,11 @@ by, and order by is used. for launching an AD campaign the team wants to know wh
 launch ads I found that on which day most users register.
 For Investor metrics, I found user engagement to test the Instagram is working properly like users are still 
 active and posting on Instagram or to check bots and fake accounts by join , group by, and having clause.
-Tech-Stack Used
+Tech-Stack Used__
 MySQL Workbench versions 8.0 through 8.0.33.
 Purpose of using it-- is the most comprehensive offering of MySQL database software, services and 
 support; it ensures that your business achieves the highest levels of reliability, security, and uptime.
-Result--
+Result__
 I have achieved while using these projects are 
 To Find the 5 oldest users of Instagram from the database provided
 To Find the users who have never posted a single photo on Instagram
@@ -32,5 +32,5 @@ To Identify the winner of the contest and provide their details to the team
 To identify and suggest the top 5 most commonly used hashtags on the platform
 To Provide insights on when to schedule an ad campaign
 this project help me to build good SQL skills and good hands-on practice on join group-by queries
-Drive Link
-https://drive.google.com/file/d/1adwFJ4cjhPjZ_rBcs-dyPwnO4OQUeaLo/view?usp=sharing
+Drive Link__
+[DataSet Link](https://drive.google.com/file/d/1adwFJ4cjhPjZ_rBcs-dyPwnO4OQUeaLo/view?usp=sharing)
