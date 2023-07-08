@@ -11,7 +11,7 @@ Instagram from the database provided.2-the users who have never posted a single 
 3- Identify the winner of the contest and provide their details to the team 4-Identify and suggest the top 5 
 most commonly used hashtags on the platform 6-What day of the week do most users register on? Provide 
 insights on when to schedule an ad campaign
-Approach
+Approach--  &nbsp
 Firstly I identified the project and which methods should I apply to this.
 The project is divided into two parts A) Marketing B) Investor metrics
 For marketing there is a need FOR FINDING the most loyal users I apply limit 5, for inactive users to 
@@ -24,7 +24,7 @@ Tech-Stack Used
 MySQL Workbench versions 8.0 through 8.0.33.
 Purpose of using it-- is the most comprehensive offering of MySQL database software, services and 
 support; it ensures that your business achieves the highest levels of reliability, security, and uptime.
-Result
+Result--
 I have achieved while using these projects are 
 To Find the 5 oldest users of Instagram from the database provided
 To Find the users who have never posted a single photo on Instagram
