@@ -25,11 +25,11 @@ active and posting on Instagram or to check bots and fake accounts by join , gro
 -Purpose of using it-- is the most comprehensive offering of MySQL database software, services and 
 support; it ensures that your business achieves the highest levels of reliability, security, and uptime.
 ## Result
--I have achieved while using these projects are 
---To Find the 5 oldest users of Instagram from the database provided
---To Find the users who have never posted a single photo on Instagram
---To Identify the winner of the contest and provide their details to the team
---To identify and suggest the top 5 most commonly used hashtags on the platform
---To Provide insights on when to schedule an ad campaign this project help me to build good SQL skills and good hands-on practice on join group-by queries
-Drive Link__
+- I have achieved while using these projects are 
+-- To Find the 5 oldest users of Instagram from the database provided
+-- To Find the users who have never posted a single photo on Instagram
+-- To Identify the winner of the contest and provide their details to the team
+-- To identify and suggest the top 5 most commonly used hashtags on the platform
+-- To Provide insights on when to schedule an ad campaign this project help me to build good SQL skills and good hands-on practice on join group-by queries
+-- Drive Link__
 [DataSet Link](https://drive.google.com/file/d/1adwFJ4cjhPjZ_rBcs-dyPwnO4OQUeaLo/view?usp=sharing)
